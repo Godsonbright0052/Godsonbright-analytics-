@@ -17,7 +17,7 @@ https://github.com/godsonbright0052/sales-dashboard
 
 ## 📂 Featured Projects  
 
-### 🔹 [Sales Data Dashboard](https://github.com/godsonbright0052/sales-dashboard)  
+### 🔹 [Sales Data Dashboard] (https://github.com/godsonbright0052/sales-dashboard)  
 An interactive Power BI dashboard analyzing sales performance and customer trends.  
 Tech stack: Power BI, SQL  
 
